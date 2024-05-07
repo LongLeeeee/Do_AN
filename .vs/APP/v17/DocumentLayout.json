@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\app\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|e:\\th\u1EED\\do_an-master\\do_an-master\\app\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\app\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|e:\\th\u1EED\\do_an-master\\do_an-master\\app\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|e:\\th\u1EED\\do_an-master\\do_an-master\\app\\remessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\remessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|e:\\th\u1EED\\do_an-master\\do_an-master\\app\\sendmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\sendmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\app\\chat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\chat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\app\\dk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\dk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|APP||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|e:\\th\u1EED\\do_an-master\\do_an-master\\app\\remessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\remessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|e:\\th\u1EED\\do_an-master\\do_an-master\\app\\sendmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\sendmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|e:\\th\u1EED\\do_an-master\\do_an-master\\app\\socketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\socketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\app\\userfriend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\userfriend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\app\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\app\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\app\\chatlistuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\chatlistuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\app\\userfriend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\userfriend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\app\\chatlistuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\chatlistuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\app\\chatlistuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\chatlistuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\app\\userfriend.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\userfriend.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\app\\dk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\dk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\app\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|solutionrelative:app\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC669291-1A74-42F7-AF59-33270A202B63}|APP\\APP.csproj|e:\\th\u1EED\\do_an-master\\do_an-master\\app\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|df8f7042-0bb1-47d1-8e6d-deb3d07698bd"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 587,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sendMessage.cs",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\sendMessage.cs",
+              "RelativeDocumentMoniker": "APP\\sendMessage.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\sendMessage.cs",
+              "RelativeToolTip": "APP\\sendMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:07:00.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sendMessage.cs [Design]",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\sendMessage.cs",
+              "RelativeDocumentMoniker": "APP\\sendMessage.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\sendMessage.cs [Design]",
+              "RelativeToolTip": "APP\\sendMessage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:02:41.259Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\packages.config",
+              "RelativeDocumentMoniker": "APP\\packages.config",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\packages.config",
+              "RelativeToolTip": "APP\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-07T15:00:58.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\App.config",
+              "RelativeDocumentMoniker": "APP\\App.config",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\App.config",
+              "RelativeToolTip": "APP\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-07T15:00:49.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "socketService.cs",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\socketService.cs",
+              "RelativeDocumentMoniker": "APP\\socketService.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\socketService.cs",
+              "RelativeToolTip": "APP\\socketService.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:03:29.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "reMessage.cs",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\reMessage.cs",
+              "RelativeDocumentMoniker": "APP\\reMessage.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\reMessage.cs",
+              "RelativeToolTip": "APP\\reMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:15:46.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "reMessage.cs [Design]",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\reMessage.cs",
+              "RelativeDocumentMoniker": "APP\\reMessage.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\reMessage.cs [Design]",
+              "RelativeToolTip": "APP\\reMessage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:38:39.666Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chat.Designer.cs",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\Chat.Designer.cs",
+              "RelativeDocumentMoniker": "APP\\Chat.Designer.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\Chat.Designer.cs",
+              "RelativeToolTip": "APP\\Chat.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:01:24.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChatlistUser.Designer.cs",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\ChatlistUser.Designer.cs",
+              "RelativeDocumentMoniker": "APP\\ChatlistUser.Designer.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\ChatlistUser.Designer.cs",
+              "RelativeToolTip": "APP\\ChatlistUser.Designer.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAjwEwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T06:13:19.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChatlistUser.cs",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\ChatlistUser.cs",
+              "RelativeDocumentMoniker": "APP\\ChatlistUser.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\ChatlistUser.cs",
+              "RelativeToolTip": "APP\\ChatlistUser.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T06:01:08.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChatlistUser.cs [Design]",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\ChatlistUser.cs",
+              "RelativeDocumentMoniker": "APP\\ChatlistUser.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\ChatlistUser.cs [Design]",
+              "RelativeToolTip": "APP\\ChatlistUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:55:12.913Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "APP",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\APP.csproj",
+              "RelativeDocumentMoniker": "APP\\APP.csproj",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\APP.csproj",
+              "RelativeToolTip": "APP\\APP.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-28T03:42:10.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserFriend.Designer.cs",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\UserFriend.Designer.cs",
+              "RelativeDocumentMoniker": "APP\\UserFriend.Designer.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\UserFriend.Designer.cs",
+              "RelativeToolTip": "APP\\UserFriend.Designer.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAIAwwKkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T03:32:01.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserFriend.cs",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\UserFriend.cs",
+              "RelativeDocumentMoniker": "APP\\UserFriend.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\UserFriend.cs",
+              "RelativeToolTip": "APP\\UserFriend.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T03:27:42.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserFriend.cs [Design]",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\UserFriend.cs",
+              "RelativeDocumentMoniker": "APP\\UserFriend.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\UserFriend.cs [Design]",
+              "RelativeToolTip": "APP\\UserFriend.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T03:22:40.352Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\Chat.cs",
+              "RelativeDocumentMoniker": "APP\\Chat.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\Chat.cs",
+              "RelativeToolTip": "APP\\Chat.cs",
+              "ViewState": "AQIAAP4AAAAAAAAAAAAmwB0BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T15:50:10.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\Program.cs",
+              "RelativeDocumentMoniker": "APP\\Program.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\Program.cs",
+              "RelativeToolTip": "APP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T15:50:24.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chat.cs [Design]",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\Chat.cs",
+              "RelativeDocumentMoniker": "APP\\Chat.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\Chat.cs [Design]",
+              "RelativeToolTip": "APP\\Chat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T15:37:41.107Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DK.cs",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\DK.cs",
+              "RelativeDocumentMoniker": "APP\\DK.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\DK.cs",
+              "RelativeToolTip": "APP\\DK.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T15:22:11.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DK.cs [Design]",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\DK.cs",
+              "RelativeDocumentMoniker": "APP\\DK.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\DK.cs [Design]",
+              "RelativeToolTip": "APP\\DK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T15:08:33.804Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\LogIn.cs",
+              "RelativeDocumentMoniker": "APP\\LogIn.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\LogIn.cs [Design]",
+              "RelativeToolTip": "APP\\LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:43:18.33Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LogIn.Designer.cs",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\LogIn.Designer.cs",
+              "RelativeDocumentMoniker": "APP\\LogIn.Designer.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\LogIn.Designer.cs",
+              "RelativeToolTip": "APP\\LogIn.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:39:34.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\LogIn.cs",
+              "RelativeDocumentMoniker": "APP\\LogIn.cs",
+              "ToolTip": "E:\\Th\u1EED\\Do_AN-master\\Do_AN-master\\APP\\LogIn.cs",
+              "RelativeToolTip": "APP\\LogIn.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAkwGcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:59:47.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
